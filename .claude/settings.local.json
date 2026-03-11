@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(timeout 10 workiq ask -q \"hello\")",
+      "Bash(echo \"EXIT: $?\")"
+    ]
+  }
+}

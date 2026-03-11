@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "workiq": {
+      "command": "workiq",
+      "args": ["mcp"]
+    }
+  }
+}
